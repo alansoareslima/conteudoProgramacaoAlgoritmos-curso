@@ -10,11 +10,9 @@ public class ForExample3 {
 		Scanner sc = new Scanner(System.in);
 		
 		for(i = 1; i <= 40; i ++) {
-			System.out.println("Digite o salário: ");
+			System.out.println("Digite o salÃ¡rio: ");
 			salario = sc.nextDouble();
-			
-			salario
-				
+
 		}
 		
 		
